@@ -1,0 +1,33 @@
+
+/*WordCamp Kolhapur CSS START*/
+.entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce) {
+	width: 100%;
+	max-width: 1240px;
+}
+
+*,h1,h2,h3,h4,h5,h6,body {
+	font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+h1,h2,h3 {
+	font-weight: 900;
+}
+
+.kolhapur-news-box li {
+	margin-bottom: 20px !important;
+	box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+	display: block;
+	overflow: hidden;
+	border-radius: 10px !important;
+}
+
+.kolhapur-news-box li img {
+	box-shadow: rgba(0, 0, 0, 0.1) 0 4px 6px -1px, rgba(0, 0, 0, 0.06) 0 2px 4px -1px;
+}
+
+#kp-gold-sponsors img {
+	box-shadow: rgba(0, 0, 0, 0.15) 0 2px 8px;
+	border-radius: 10px;
+}
