@@ -5,9 +5,14 @@
   font-weight: 500;
   font-style: normal;
 }
-h1,h2,h3,h4,h5,h6 {
-	font-family: "Poppins", sans-serif;
-  font-weight: 800;
+h1,h2,h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+h4,h5,h6 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
   font-style: normal;
 }
 .entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce) {
