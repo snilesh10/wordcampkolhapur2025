@@ -1,15 +1,21 @@
 
 /*WordCamp Kolhapur CSS START*/
+*{
+	font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
 .entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce) {
 	width: 100%;
 	max-width: 1240px;
 }
 
-*,h1,h2,h3,h4,h5,h6,body {
-	font-family: "Poppins", sans-serif;
-  font-weight: 800;
-  font-style: normal;
-}
+
 
 h1,h2,h3 {
 	font-weight: 900;
