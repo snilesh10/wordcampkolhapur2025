@@ -3,7 +3,7 @@
 header
 {
 	box-shadow: 0 2px 4px rgb(45 62 80 / 25%) !important;
-    border: 0;
+    border-bottom:1px solid #d4d4d4 !important;
     -webkit-box-shadow: 0 2px 4px rgb(45 62 80/12%);
     -moz-box-shadow: 0 2px 4px rgb(45 62 80/12%);
     box-shadow: 0 2px 4px rgb(45 62 80/12%)
