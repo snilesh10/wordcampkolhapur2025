@@ -15,7 +15,7 @@ h1,h2,h3{
     font-weight: 800;
     font-style: normal;
   }
-.kopwc-navigation a{
+.kopwc-navigation a,.kopwc-navigation a:where(:not(.wp-element-button)){
 	font-family: "Poppins", sans-serif;
     font-weight: 400 !important;
     font-style: normal;
