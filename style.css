@@ -1,6 +1,6 @@
 
 /*WordCamp Kolhapur CSS START*/
-#header
+#header .has-base-2-background-color
 {
 	background:red !important;
 	box-shadow: 0 2px 4px rgb(45 62 80 / 25%) !important;
