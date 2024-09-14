@@ -24,7 +24,7 @@ h4,h5,h6 {
 	width: 100%;
 	max-width: 1240px;
 }
-main{
+body,main{
 background:#ffffff !important;
 }
 .entry-content p{
