@@ -2,7 +2,8 @@
 /*WordCamp Kolhapur CSS START*/
 header
 {
-	box-shadow: 0px 1px 0px 0px rgba(27, 31, 36, 0.04);
+	box-shadow: 0px 1px 0px 0px rgba(27, 31, 36, 0.04) !important;
+	margin-bottom:10px !important;
 }
 *{
 	font-family: "Poppins", sans-serif;
