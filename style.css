@@ -66,9 +66,12 @@ background:#ffffff !important;
 		margin-left:auto;
 		margin-right:auto;
 	}
-	.wckop-footer-navigation ul.wckop-footer-navigation{
+	.wckop-footer-navigation ul.wckop-footer-navigation, .wckop-footer-copyright{
 		display: flex !important;
 		flex-direction: column !important;
 		text-align:center !important;
+	}
+	.wckop-footer-copyright{
+		justify-content: center !important;
 	}
 }
