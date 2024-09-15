@@ -83,9 +83,7 @@ background:#ffffff !important;
 		margin-inline-start: 0px !important;
 		justify-content: center !important;
 		flex-wrap: nowrap !important;
-
+		margin-bottom: 20px !important;
 	}
-	footer .wp-block-social-links li{
-		margin:0px !important;
-	}
+	
 }
