@@ -78,4 +78,13 @@ background:#ffffff !important;
 	.wckop-footer-copyright p{
 		text-align: center !important;
 	}
+	footer .wp-block-social-links{
+		margin-left:0px !important;
+		margin-inline-start: 0px !important;
+		justify-content: center !important;
+
+	}
+	footer .wp-block-social-links li{
+		margin:0px !important;
+	}
 }
