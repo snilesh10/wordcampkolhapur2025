@@ -73,6 +73,9 @@ background:#ffffff !important;
 	}
 	.wckop-footer-copyright{
 		justify-content: center !important;
+		
+	}
+	.wckop-footer-copyright p{
 		text-align: center !important;
 	}
 }
