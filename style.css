@@ -6,7 +6,7 @@ header
 	margin-bottom:2px !important;
 }
 *{
-	font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -25,10 +25,7 @@ h4,h5,h6 {
   font-weight: 300;
   font-style: normal;
 }
-.entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator):not(.woocommerce) {
-	width: 100%;
-	max-width: 1240px;
-}
+
 body,main{
 background:#ffffff !important;
 }
