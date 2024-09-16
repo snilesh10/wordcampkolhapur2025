@@ -114,5 +114,7 @@ header nav,header nav ul li a,header nav ul li{
 	#modal-1 #modal-1-content ul li,#modal-1 #modal-1-content ul li a{
 		text-align: center;
 	}
-	
+	#wckop-home-hero-cta,#wckop-home-hero-cta p{
+		text-align: center !important;
+	}
 }
