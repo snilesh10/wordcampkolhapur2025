@@ -110,7 +110,7 @@ header nav,header nav ul li a,header nav ul li{
 		#tix .tix-ticket-form td,
 		#tix .tix-tickets-list td,
 		#tix .tix-order-summary td {
-	padding: 1em .5em;
+	padding: 1em .8em;
 }
 
 #tix .tix-attendee-form,
