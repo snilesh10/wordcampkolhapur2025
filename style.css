@@ -63,7 +63,11 @@ header nav,header nav ul li a,header nav ul li{
 	box-shadow: rgba(0, 0, 0, 0.15) 0 2px 8px;
 	border-radius: 10px;
 }
-
+#commentform #submit{
+	background:#006b00 !important;
+	color:#ffffff !important;
+	border-radius: 4px !important;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
