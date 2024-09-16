@@ -91,5 +91,14 @@ background:#ffffff !important;
 		background:#faf1e6 !important;
 		text-align: center !important;
 	}
+	#modal-1 #modal-1-content ul{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+	#modal-1 #modal-1-content ul li{
+		text-align: center;
+	}
 	
 }
