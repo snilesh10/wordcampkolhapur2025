@@ -63,7 +63,7 @@ header nav,header nav ul li a,header nav ul li{
 	box-shadow: rgba(0, 0, 0, 0.15) 0 2px 8px;
 	border-radius: 10px;
 }
-#commentform #submit,.tix_tickets_table input[type=submit]{
+#commentform #submit,#tix input[type=submit]{
 	background:#006b00 !important;
 	color:#ffffff !important;
 	border-radius: 4px !important;
