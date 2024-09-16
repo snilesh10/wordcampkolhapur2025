@@ -61,7 +61,7 @@ header nav,header nav ul li a,header nav ul li{
 a:hover{
 	color:#FF6600;
 }
-header nav a:hover,footer nav a:hover{
+header nav a:hover,footer nav a:hover,header nav a:active,footer nav a:active{
 	color:#FF6600 !important;
 }
 .wp-block-button__link:hover{
