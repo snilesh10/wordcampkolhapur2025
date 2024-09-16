@@ -68,6 +68,17 @@ header nav,header nav ul li a,header nav ul li{
 	color:#ffffff !important;
 	border-radius: 4px !important;
 }
+
+/* Tickets Table */
+.tix_tickets_table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
