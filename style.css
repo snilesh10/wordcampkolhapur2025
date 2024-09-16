@@ -34,6 +34,11 @@ h4,h5,h6 {
 body,main{
 background:#ffffff !important;
 }
+header navigation,header navigation ul li a,header navigation ul li{
+	font-family: "Poppins", sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal;
+}
 .entry-content p{
     margin-bottom:20px;
 }
