@@ -62,7 +62,10 @@ a:hover{
 	color:#FF6600;
 }
 header nav a:hover,footer nav a:hover,header nav a:active,footer nav a:active{
-	color:#FF6600 !important;
+	color:#FF6600 !important;	
+	outline: none !important;
+}
+header nav a,footer nav a{
 	outline: none !important;
 }
 .wp-block-button__link:hover{
