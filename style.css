@@ -107,6 +107,11 @@ header nav,header nav ul li a,header nav ul li{
 	}
 	#modal-1 #modal-1-content ul li{
 		background:red !important;
+		width:100% !important;
+		align-items: center;
+		justify-items: center;
+		display: flex;
+		flex-direction: column;
 	}
 	#modal-1 #modal-1-content ul li,#modal-1 #modal-1-content ul li a{
 		text-align: center;
