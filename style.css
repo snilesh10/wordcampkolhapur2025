@@ -87,5 +87,9 @@ background:#ffffff !important;
 		flex-wrap: nowrap !important;
 		margin-bottom: 20px !important;
 	}
+	#modal-1{
+		background:#faf1e6 !important;
+		text-align: center !important;
+	}
 	
 }
