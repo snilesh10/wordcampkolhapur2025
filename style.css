@@ -176,8 +176,8 @@ header nav a,footer nav a{
 div.camptix-invoice-toggle-wrapper{
 	width:100% !important;
 }
-table.camptix-invoice-details{
-	border-spacing: 30px !important;
+table.camptix-invoice-details tr td{
+	padding: 10px 20px !important;
 }
 .tix_tickets_table.tix-attendee-form th{
 	background:#faf1e6 !important;
