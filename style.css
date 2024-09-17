@@ -179,8 +179,9 @@ div.camptix-invoice-toggle-wrapper{
 table.camptix-invoice-details{
 	border-spacing: 30px !important;
 }
-.tix_tickets_table th{
+.tix_tickets_table.tix-attendee-form th{
 	background:#faf1e6 !important;
+	padding:8px 20px !important
 }
 @media (max-width: 600px) {
 	#tix .tix-attendee-form fieldset label {
