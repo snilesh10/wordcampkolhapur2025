@@ -254,6 +254,10 @@ header nav a,footer nav a{
 	padding-block: calc(var(--wp--preset--spacing--10) / 2);
 	font-size: var(--wp--preset--font-size--small);
 }
+.tix_tickets_table.tix-attendee-form
+{
+	padding:20px !important;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
