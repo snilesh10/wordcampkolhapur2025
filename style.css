@@ -172,12 +172,17 @@ header nav a,footer nav a{
 #tix_checkout_form h2{
 	padding-top:0px !important;
 	margin-top:0px !important;
+	font-size:30px !important;
+	font-weight: 500 !important;
 }
 div.camptix-invoice-toggle-wrapper{
 	width:100% !important;
 }
 table.camptix-invoice-details tr td{
 	padding: 10px 20px !important;
+}
+.tix-order-summary{
+	margin-bottom:40px !important;
 }
 table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-details tr td textarea{
  width:80% !important;
