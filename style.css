@@ -173,7 +173,12 @@ header nav a,footer nav a{
 	padding-top:0px !important;
 	margin-top:0px !important;
 }
-
+div.camptix-invoice-toggle-wrapper{
+	width:100% !important;
+}
+table.camptix-invoice-details{
+	padding:20px !important;
+}
 @media (max-width: 600px) {
 	#tix .tix-attendee-form fieldset label {
 		font-size: inherit;
