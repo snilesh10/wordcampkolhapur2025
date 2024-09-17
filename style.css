@@ -288,7 +288,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 }
 /* attendee page*/
 .tix-attendee-list{
-	display: table-cell !important;
+	
 }
 .tix-attendee-list li{
  display:flex;
