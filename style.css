@@ -301,6 +301,10 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 #tix-attendees .tix-field{
 	margin:0px !important;
 }
+#tix-attendees .avatar{
+	width:96px !important;
+	height: 96px !important;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
