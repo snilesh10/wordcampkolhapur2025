@@ -181,7 +181,8 @@ table.camptix-invoice-details{
 }
 .tix_tickets_table.tix-attendee-form th{
 	background:#faf1e6 !important;
-	padding:8px 20px !important
+	padding:8px 0px 8px 20px !important;
+	margin-bottom:20px !important;
 }
 @media (max-width: 600px) {
 	#tix .tix-attendee-form fieldset label {
