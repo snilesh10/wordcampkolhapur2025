@@ -258,6 +258,9 @@ header nav a,footer nav a{
 {
 	padding:20px !important;
 }
+#tix .tix-wide-tab{
+	width:100% !important;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
