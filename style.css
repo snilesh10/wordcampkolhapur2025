@@ -169,6 +169,9 @@ header nav a,footer nav a{
 #tix .tix-attendee-form fieldset label input {
 	margin-right: .5rem;
 }
+#tix_checkout_form h2{
+	padding-top:0px !important
+}
 
 @media (max-width: 600px) {
 	#tix .tix-attendee-form fieldset label {
