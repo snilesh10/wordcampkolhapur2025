@@ -286,6 +286,14 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 #tix .tix-wide-tab{
 	width:100% !important;
 }
+/* attendee page*/
+.tix-attendee-list li{
+ display:flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content:center;
+}
+
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
