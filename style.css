@@ -296,6 +296,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
  padding:20px !important;
  max-width: 200px !important;
  margin-right:20px;
+ height:auto !important;
  margin-bottom:20px;
 }
 #tix-attendees .tix-field{
@@ -304,6 +305,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 #tix-attendees .avatar{
 	width:96px !important;
 	height: 96px !important;
+	border-radius: 4px !important;
 }
 @media screen and (max-width: 599px) {
 	footer{
