@@ -179,6 +179,9 @@ div.camptix-invoice-toggle-wrapper{
 table.camptix-invoice-details tr td{
 	padding: 10px 20px !important;
 }
+table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-details tr td textarea{
+ width:80% !important;
+}
 .tix_tickets_table.tix-attendee-form th{
 	background:#faf1e6 !important;
 	padding:8px 0px 8px 20px !important;
