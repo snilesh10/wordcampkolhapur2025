@@ -306,6 +306,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	width:96px !important;
 	height: 96px !important;
 	border-radius: 4px !important;
+	margin-bottom:15px !important;
 }
 @media screen and (max-width: 599px) {
 	footer{
