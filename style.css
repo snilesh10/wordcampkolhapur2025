@@ -298,7 +298,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
  margin-right:20px;
  margin-bottom:20px;
 }
-
+#tix-attendees .tix-field{
+	margin:0px !important;
+}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
