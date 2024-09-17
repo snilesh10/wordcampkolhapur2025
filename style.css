@@ -292,6 +292,8 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
  flex-direction: column;
  align-items: center;
  justify-content:center;
+ box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ padding:20px;
 }
 
 @media screen and (max-width: 599px) {
