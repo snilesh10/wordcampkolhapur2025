@@ -97,6 +97,9 @@ header nav a,footer nav a{
     overflow: hidden;
 }
 /* Tickets form */
+#tix{
+	padding-top:0px !important;
+}
 #tix .tix-ticket-form,
 	#tix .tix-tickets-list,
 	#tix .tix-order-summary,
