@@ -301,10 +301,6 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
  margin-right:20px;
  height:auto !important;
  margin-bottom:20px;
- margin: 0;
- width: auto !important;
- float: none;
- position: relative;
 }
 #tix-attendees .tix-field{
 	margin:0px !important;
