@@ -366,3 +366,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 		text-align: center !important;
 	}
 }
+a.wp-block-button__link{
+	background:#FF6600 !important;
+}
+a.wp-block-button__link:hover{
+	background-color: #006b00 !important;
+}
