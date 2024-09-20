@@ -80,6 +80,7 @@ header nav a,footer nav a{
 	background:#FF6600 !important;
 	color:#ffffff !important;
 	border-radius: 4px !important;
+	border:0px !important;
 }
 #tix input[type=submit]{
 	padding:8px 15px !important;
