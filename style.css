@@ -229,6 +229,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 
 .tix-column-remaining {
 	/* display: none; */
+	text-align:right !important;
 }
 
 .tix-ticket-form input[type="text"],
