@@ -374,7 +374,7 @@ a.wp-block-button__link,button.wp-block-button__link{
 a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	background-color: #006b00 !important;
 }
-/* Sponsors Style */
+/* Sponsors Style 
 .wcb_sponsor_level-bronze figure,.wcb_sponsor_level-inkind-sponsor figure
 {
 	aspect-ratio: 16 / 9 !important;
@@ -386,6 +386,25 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
     margin-bottom: 0;
 }
 .wcb_sponsor_level-bronze figure img,.wcb_sponsor_level-inkind-sponsor figure img
+{
+	width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+	background-color: #ffffff !important;
+	padding-left:20px !important;
+	padding-right:20px !important;
+}*/
+.wcb_sponsor figure
+{
+	aspect-ratio: 16 / 9 !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.wcb_sponsor figure img
 {
 	width: 100% !important;
     height: 100% !important;
