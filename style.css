@@ -374,3 +374,14 @@ a.wp-block-button__link,button.wp-block-button__link{
 a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	background-color: #006b00 !important;
 }
+/* Sponsors Style */
+.wcb_sponsor_level-bronze figure
+{
+	aspect-ratio: 16 / 9;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
