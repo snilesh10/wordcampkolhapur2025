@@ -375,7 +375,7 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	background-color: #006b00 !important;
 }
 /* Sponsors Style */
-.wcb_sponsor_level-bronze figure
+.wcb_sponsor_level-bronze figure,.wcb_sponsor_level-inkind-sponsor figure
 {
 	aspect-ratio: 16 / 9 !important;
     padding-top: 0;
@@ -385,7 +385,7 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
     margin-top: 0;
     margin-bottom: 0;
 }
-.wcb_sponsor_level-bronze figure img
+.wcb_sponsor_level-bronze figure img,.wcb_sponsor_level-inkind-sponsor figure img
 {
 	width: 100% !important;
     height: 100% !important;
