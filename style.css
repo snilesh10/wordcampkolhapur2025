@@ -390,6 +390,7 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	width: 100% !important;
     height: 100% !important;
     object-fit: contain !important;
+	background-color: #ffffff !important;
 	padding-left:20px !important;
 	padding-right:20px !important;
 }
