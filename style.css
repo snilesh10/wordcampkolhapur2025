@@ -380,8 +380,8 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	aspect-ratio: 16 / 9 !important;
     padding-top: 0;
     padding-bottom: 0;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
     margin-top: 0;
 	background:#ffffff !important;
     margin-bottom: 0;
@@ -391,4 +391,6 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	width: 100% !important;
     height: 100% !important;
     object-fit: contain !important;
+	padding-left:10px !important;
+	padding-right:10px !important;
 }
