@@ -375,6 +375,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	.page-slug-sponsors .tix-attendee-list{
 		background:red !important;
 	}
+	.page-slug-sponsors  #tix-attendees .tix-columns-5 li{
+		width:100% !important;
+	}
 }
 a.wp-block-button__link,button.wp-block-button__link{
 	background:#FF6600 !important;
