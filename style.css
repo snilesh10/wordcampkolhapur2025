@@ -417,4 +417,5 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	background: #d4d4d4 !important;
 	padding:0px !important;
 	margin:0px !important;
+	justify-content: space-between !important;
 }
