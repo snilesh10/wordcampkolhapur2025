@@ -314,6 +314,11 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	margin-bottom:15px !important;
 	box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
 }
+.page-slug-sponsors .tix-attendee-list{
+	
+	padding:0px 0px 0px 20px !important;
+	margin:0px !important;
+	}
 @media screen and (max-width: 599px) {
 	footer{
 		text-align:center !important;
@@ -367,6 +372,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	#wckop-home-hero-cta,#wckop-home-hero-cta p{
 		text-align: center !important;
 	}
+	.page-slug-sponsors .tix-attendee-list{
+		background:red !important;
+	}
 }
 a.wp-block-button__link,button.wp-block-button__link{
 	background:#FF6600 !important;
@@ -413,8 +421,3 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	padding-left:20px !important;
 	padding-right:20px !important;
 }
-.page-slug-sponsors .tix-attendee-list{
-	background: #d4d4d4 !important;
-	padding:0px 0px 0px 20px !important;
-	margin:0px !important;
-	}
