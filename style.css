@@ -396,6 +396,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 		overflow: hidden !important;
 		
 	}
+	#modal-1 #modal-1-content ul li ul{
+		padding-top:0px !important;
+	}
 	#modal-1 #modal-1-content ul li li
 	{
 		padding:4px 8px !important;
