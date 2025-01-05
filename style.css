@@ -427,7 +427,11 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	padding-right:20px !important;
 }
 /* SCHEDULE PAGE */
-.wordcamp-schedule__column-header,.wordcamp-schedule__time-slot-header{
+.wordcamp-schedule__time-slot-header{
 	background:#FAF1E6 !important;
 	padding:10px 20px !important;
+}
+.wordcamp-schedule__column-header
+{
+	background:#FF6600 !important;
 }
