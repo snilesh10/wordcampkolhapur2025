@@ -386,7 +386,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 		width:100% !important;
 	}
 	#modal-1 #modal-1-content ul{
-		margin-right:20px !important;
+		padding-right:10px !important;
 	}
 	#modal-1 #modal-1-content ul li{
 		
