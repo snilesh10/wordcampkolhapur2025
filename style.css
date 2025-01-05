@@ -320,7 +320,7 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	}
 
 @media screen and (max-width: 599px) {
-	#modal-1-content li {
+	#wp-block-navigation__responsive-container-content li {
 		border-bottom:1px #d4d4d4 !important;
 		padding-bottom:8px !important;
 		margin-bottom:5px !important;
