@@ -385,6 +385,9 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 	.page-slug-sponsors  #tix-attendees .tix-columns-5 li{
 		width:100% !important;
 	}
+	#modal-1 #modal-1-content ul{
+		margin-right:20px !important;
+	}
 	#modal-1 #modal-1-content ul li{
 		
 		background:#333333 !important;
