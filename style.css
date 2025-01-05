@@ -393,10 +393,11 @@ table.camptix-invoice-details tr td input[type=text],table.camptix-invoice-detai
 		background:#333333 !important;
 		color:#ffffff !important;
 		padding:4px 8px !important;
-		margin-bottom:5px !important;
+		
 	}
 	#modal-1 #modal-1-content ul li li
 	{
+		margin-bottom:5px !important;
 		background:#ffffff !important;
 		color:#333333 !important;
 		border-bottom:1px solid #d4d4d4 !important;
