@@ -434,5 +434,6 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 .wordcamp-schedule__column-header
 {
 	color:#ffffff !important;
+	font-size:1.5 em !important;
 	background:#FF6600 !important;
 }
