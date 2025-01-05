@@ -438,8 +438,9 @@ a.wp-block-button__link:hover,button.wp-block-button__link:hover{
 	background:#FF6600 !important;
 }
 dl.wordcamp-schedule__session-category dd{
-	background:#000000 !important;
+	background:#333333 !important;
 	padding:6px 10px !important;
 	color:#ffffff !important;
 	margin-right:10px !important;
+	border-radius: 4px !important;
 }
