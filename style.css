@@ -474,3 +474,6 @@ dl.wordcamp-schedule__session-category dd{
 	margin-bottom:10px !important;
 	border-radius: 4px !important;
 }
+.wp-block-post-title{
+	line-height: 1.4em !important;
+}
